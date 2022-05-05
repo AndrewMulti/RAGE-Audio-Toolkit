@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.677,D:\AnimTool\IVAUDIO\AUtils.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.dfm=D:\Other\RAD Studio\Projects\IVAUDIO\About.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.dfm=D:\Other\RAD Studio\Projects\IVAUDIO\InstUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=D:\AnimTool\IVAUDIO\Source\RageAudio.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas=D:\Other\RAD Studio\Projects\IVAUDIO\InstUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas=D:\Other\RAD Studio\Projects\IVAUDIO\TransparentPanel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas=D:\Other\RAD Studio\Projects\IVAUDIO\About.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,=D:\AnimTool\IVAUDIO\Source\IMAADPCM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Other\RAD Studio\Projects\IVAUDIO\IVAudioMng.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,D:\Other\RAD Studio\Projects\IVAUDIO\TransparentPanel.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Other\RAD Studio\Projects\IVAUDIO\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,D:\Other\RAD Studio\Projects\IVAUDIO\LoadForm.pas=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,D:\AnimTool\IVAUDIO\Source\WinRstor.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,D:\AnimTool\IVAUDIO\Source\WinRstor.pas=D:\AnimTool\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Other\RAD Studio\Projects\IVAUDIO\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,D:\AnimTool\IVAUDIO\Unit1.pas=D:\AnimTool\IVAUDIO\Source\RpfFiles.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,D:\AnimTool\IVAUDIO\Unit1.pas=D:\AnimTool\IVAUDIO\Source\StreamCreate.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,D:\AnimTool\IVAUDIO\Unit1.pas=D:\AnimTool\IVAUDIO\Source\uSynEditPopupEdit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,=D:\AnimTool\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,D:\Other\RAD Studio\Projects\IVAUDIO\LoadForm.dfm=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,D:\AnimTool\IVAUDIO\Unit1.dfm=D:\AnimTool\IVAUDIO\Source\StreamCreate.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Other\RAD Studio\Projects\IVAUDIO\MetaFiles.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,D:\AnimTool\IVAUDIO\Unit1.pas=D:\AnimTool\IVAUDIO\AUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas=D:\Other\RAD Studio\Projects\IVAUDIO\Utils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,=D:\Other\RAD Studio\Projects\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,=D:\AnimTool\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,=D:\AnimTool\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,=D:\AnimTool\IVAUDIO\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,=D:\AnimTool\IVAUDIO\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

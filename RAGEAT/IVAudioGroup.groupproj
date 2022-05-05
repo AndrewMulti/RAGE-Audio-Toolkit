@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{07CAACFA-7BDD-4E14-A348-CC3F1B40A8C7}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="IVAudioMng.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="IVAudioConv.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="IVAudioMng">
+        <MSBuild Projects="IVAudioMng.dproj"/>
+    </Target>
+    <Target Name="IVAudioMng:Clean">
+        <MSBuild Projects="IVAudioMng.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="IVAudioMng:Make">
+        <MSBuild Projects="IVAudioMng.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="IVAudioConv">
+        <MSBuild Projects="IVAudioConv.dproj"/>
+    </Target>
+    <Target Name="IVAudioConv:Clean">
+        <MSBuild Projects="IVAudioConv.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="IVAudioConv:Make">
+        <MSBuild Projects="IVAudioConv.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="IVAudioMng;IVAudioConv"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="IVAudioMng:Clean;IVAudioConv:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="IVAudioMng:Make;IVAudioConv:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
